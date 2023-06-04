@@ -19,3 +19,6 @@ etags
 # cscope files
 cscope.*
 ncscope.*
+
+# emacs backup files
+*~
